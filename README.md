@@ -41,3 +41,5 @@ How lexical analysis is done in compilers,
 How to use file handling, string manipulation, and character testing in C.
 
 *OUTPUT*: 
+
+<img width="1920" height="1007" alt="Image" src="https://github.com/user-attachments/assets/a8d5a07f-af70-4714-84b9-05b39f8b39ed" />
